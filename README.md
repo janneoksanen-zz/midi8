@@ -14,7 +14,7 @@ Check out the original work by Amplivibe/jackha:
 3d model of the pedal enclosure for printing:
 https://www.thingiverse.com/thing:1132912
 
-Original software for the Eventide H9 pedal.
+Original software for the Eventide H9 pedal:
 https://github.com/jackha/midi-footcontroller-arduino
 
 Check out the extensive video tutorial series by Notes and Volts on Youtube:
